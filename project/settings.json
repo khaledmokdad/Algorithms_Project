@@ -1,0 +1,5 @@
+{
+  "GA": {"population_size": 40, "generations": 120, "crossover_rate": 0.9, "mutation_rate": 0.025, "tournament_size": 3, "elite_count": 2},
+  "PSO": {"swarm_size": 40, "iterations": 120, "inertia": 0.72, "c1": 1.45, "c2": 1.45, "velocity_limit": 2.5},
+  "ACO": {"ants": 40, "iterations": 120, "alpha": 1.0, "beta": 2.2, "evaporation": 0.2}
+}
