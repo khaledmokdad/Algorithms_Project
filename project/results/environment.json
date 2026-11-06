@@ -1,0 +1,20 @@
+{
+  "python": "3.14.3",
+  "numpy": "2.5.4",
+  "scipy": "1.18.1",
+  "matplotlib": "3.11.2",
+  "system": "Windows-11-10.0.26300-SP0",
+  "processor": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+  "runs_per_instance": 20,
+  "source_sha256": {
+    "algorithms/__init__.py": "32ad9fc14716962e688704960764f1ee8b5a89f1fc180053b1f2f8703f0e5026",
+    "algorithms/aco.py": "bfebc39d5c4e2fc2cb44a4a5e67504b217b7227d813a54ce64e717e0753f3511",
+    "algorithms/ga.py": "28a017716a91181ec30a02b9da0854bcea49b934ba6dbf36610af55a3c48bc3a",
+    "algorithms/pso.py": "ed37bece30ba76d275a3863460b82aecca5b14f1da0c4d8b02f88cbf791e3bb6",
+    "main.py": "43d9ec480546a66818acb99ec12c1ace712fd1db6c4b07bcaa98cdc2bccde001",
+    "scheduling.py": "b2a483fa59018e239e795cb4f8085faa997f1142887bf35ca1f0ec02530d2527",
+    "verify.py": "3ce2d04b76c2831f1570e5d8f924599e2b70e569258c8038a8138546a47647ce",
+    "settings.json": "e0f8483f07b9f1e4de38ddf95da8eeab9a2fbcbb2b6edda5bbae4561c0da6647",
+    "requirements.txt": "80a519b095ecbb38110e8089deb5059759d7bc3fa93160bcade757a634a47b57"
+  }
+}
