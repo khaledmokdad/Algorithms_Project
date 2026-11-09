@@ -10,17 +10,19 @@ Heterogeneous parallel-machine task scheduling: assign each job to one machine t
 
 ## فريق العمل — Group 3
 
-| العضو | GitHub | المسؤولية |
-|---|---|---|
-| خالد مقداد | [khaledmokdad](https://github.com/khaledmokdad) | التكامل النهائي والتوثيق |
-| ريتا | [rita-emp23](https://github.com/rita-emp23) | نموذج المسألة والحل الجشع والحد الأدنى |
-| مجد | [Majd20011](https://github.com/Majd20011) | خوارزمية GA |
-| نيرمين | [Nirmen-191627](https://github.com/Nirmen-191627) | خوارزمية PSO |
-| ميار | [mayaralkhalaf](https://github.com/mayaralkhalaf) | خوارزمية ACO |
-| عبد الستار | [Abdulsattar120](https://github.com/Abdulsattar120) | منصة التجارب والتصدير والنتائج |
-| تايسون | [tysonmj00-byte](https://github.com/tysonmj00-byte) | التحقق من البيانات والإسنادات |
-| عبد الله رمضان | [Abdllauhramdan](https://github.com/Abdllauhramdan) | واجهة العرض التفاعلية |
-| طارق | [tarekbaba183-dot](https://github.com/tarekbaba183-dot) | التقرير النهائي |
+| العضو | GitHub | المسؤولية | القضية |
+|---|---|---|---|
+| خالد المقداد | [khaledmokdad](https://github.com/khaledmokdad) | التكامل النهائي والتوثيق | [#9](https://github.com/khaledmokdad/Algorithms_Project/issues/9) |
+| ريتا حمادة | [rita-emp23](https://github.com/rita-emp23) | نموذج المسألة والحل الجشع والحد الأدنى | [#1](https://github.com/khaledmokdad/Algorithms_Project/issues/1) |
+| مجد عرابي | [Majd20011](https://github.com/Majd20011) | خوارزمية GA | [#2](https://github.com/khaledmokdad/Algorithms_Project/issues/2) |
+| نيرمين محمود | [Nirmen-191627](https://github.com/Nirmen-191627) | خوارزمية PSO | [#3](https://github.com/khaledmokdad/Algorithms_Project/issues/3) |
+| ميار الخلف | [mayaralkhalaf](https://github.com/mayaralkhalaf) | خوارزمية ACO | [#4](https://github.com/khaledmokdad/Algorithms_Project/issues/4) |
+| عبد الستار الصياد | [Abdulsattar120](https://github.com/Abdulsattar120) | منصة التجارب والتصدير والنتائج | [#5](https://github.com/khaledmokdad/Algorithms_Project/issues/5) |
+| محمد الزيات | [tysonmj00-byte](https://github.com/tysonmj00-byte) | التحقق من البيانات والإسنادات | [#6](https://github.com/khaledmokdad/Algorithms_Project/issues/6) |
+| عبدالله رمضان | [Abdllauhramdan](https://github.com/Abdllauhramdan) | واجهة العرض التفاعلية | [#7](https://github.com/khaledmokdad/Algorithms_Project/issues/7) |
+| محمد طارق بابا | [tarekbaba183-dot](https://github.com/tarekbaba183-dot) | التقرير النهائي | [#8](https://github.com/khaledmokdad/Algorithms_Project/issues/8) |
+
+مساهمة كل عضو موثّقة في التقرير (`Report.docx`، جدول 7) وفي تاريخ المستودع.
 
 ## التشغيل
 
