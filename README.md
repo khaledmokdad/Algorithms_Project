@@ -2,7 +2,7 @@
 
 ## توزيع المهام على آلات غير متطابقة
 
-**BIA601 — Intelligent Algorithms / الخوارزميات الذكية — الوظيفة الثانية (F25) — المجموعة 3**
+**BIA601 — Intelligent Algorithms / الخوارزميات الذكية (F25) — المجموعة 3**
 
 المستودع: https://github.com/khaledmokdad/Algorithms_Project
 
@@ -54,7 +54,7 @@ python verify.py --rerun
 
 - التقرير: [`Report.docx`](Report.docx) ونسخة PDF للتسليم: [`Report.pdf`](Report.pdf)
 - لوحة النتائج التفاعلية: افتح [`index.html`](index.html) في المتصفح (ملف مستقل، لا يحتاج تشغيل خادم).
-  لعرض الجداول والرسوم بعد التجربة الكاملة يكفي فتح الملف محلياً.
+لعرض الجداول والرسوم بعد التجربة الكاملة يكفي فتح الملف محلياً.
 - مخرجات التجارب والرسوم: [`project/results/`](project/results/)
 
 ## مخرجات التسليم
